@@ -1,0 +1,27 @@
+{
+        "start_week": 0,
+        "energy_chart_month":[
+        {"name":2016,"data":[0,0,0,0,0.183,1.238,1.206,0.903,0.804,0.299,0.059,0.02]}
+        ,{"name":2017,"data":[0.041,0.196,0.62,0.955,1.101,0.998,1.179,0.934,0.447,0.371,0.105,0.006]}
+        ,{"name":2018,"data":[0,0,0,0,0,0,0,0,0,0,0,0]}
+        ],
+        "energy_chart_month_max":1.238,
+        "month_uom":"mega",
+        "energy_chart_quarter":[
+        {"name":2016,"data":[0,1.421,2.913,0.378]}
+        ,{"name":2017,"data":[0.857,3.054,2.56,0.482]}
+        ,{"name":2018,"data":[0,0,0,0]}
+        ],
+        "quarter_uom":"mega",
+        "year_categories":[2016, 2017, 2018],
+        "energy_chart_year":[
+        {"name":2016,"data":[4.713,0,0]}
+        ,{"name":2017,"data":[0,6.956,0]}
+        ,{"name":2018,"data":[0,0,0]}
+        ],
+        "year_uom":"mega",
+
+        "month_expected_data":[],
+        "quarter_expected_data":[],
+        "year_expected_data": []
+    }
